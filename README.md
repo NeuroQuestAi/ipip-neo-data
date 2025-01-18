@@ -16,7 +16,36 @@ This repository contains the datasets for the 120 and 300 versions of the IPIP, 
 
 The original datasets were provided by Professor Dr. Johnson and can be accessed at the link https://osf.io/tbmh5/.
 
+### How to use
 
+To use the project, simply install Python and Poetry on your machine. Then, run the commands below:
 
+```shell
+cd ipip-neo-data; poetry shell; poetry update
+```
+
+After run:
+
+```shell
 jupyter lab --no-browser
+```
 
+### Credits 🏆
+
+  * Dr John A. Johnson
+
+### License 🙋
+
+  * https://ipip.ori.org/newPermission.htm
+
+### Resources 📗
+
+  * https://sites.psu.edu/drj5j/
+  * https://ipip.ori.org/
+  * https://osf.io/tbmh5/
+  * https://github.com/kholia/IPIP-NEO-PI
+
+### Authors 👨‍💻
+
+  * [Ederson Corbari](mailto:e@NeuroQuest.ai)
+  * [Daiana Oliveira](mailto:d@NeuroQuest.ai)
