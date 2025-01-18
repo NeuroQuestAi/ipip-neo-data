@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "ml-persona-predict"
+version = "1.0.0"
+description = "Predict Personality (Model)"
+authors = ["Ederson Corbari <ecorbari@protonmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pandas = "2.0.1"
+pyreadstat = "^1.2.7"
+five-factor-e = "1.12.1"
+
+[[tool.poetry.source]]
+name = "pytorch"
+url = "https://download.pytorch.org/whl/cu121/"
+priority = "explicit"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
