@@ -31,6 +31,11 @@ After run:
 jupyter lab --no-browser
 ```
 
+The datasets are available on the Kaggle platform at the links below:
+
+- [https://www.kaggle.com/datasets/edersoncorbari/pip-neo-big-five-personality-120-item-version](https://www.kaggle.com/datasets/edersoncorbari/pip-neo-big-five-personality-120-item-version)
+- [https://www.kaggle.com/datasets/edersoncorbari/ipip-neo-big-five-personality-300-item-version](https://www.kaggle.com/datasets/edersoncorbari/ipip-neo-big-five-personality-300-item-version)
+
 ### Credits 🏆
 
   * Dr John A. Johnson
