@@ -17,7 +17,7 @@ using the [Five-Factor-E](https://github.com/NeuroQuestAi/five-factor-e) library
 
 The original datasets were provided by Professor **Dr. John A. Johnson** and can be accessed at the link [https://osf.io/tbmh5/](https://osf.io/tbmh5/).
 
-### How to use
+### How to use 🚀
 
 To use the project, simply install Python and Poetry on your machine. Then, run the commands below:
 
