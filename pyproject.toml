@@ -1,20 +1,16 @@
 [tool.poetry]
-name = "ml-persona-predict"
+name = "ipip-neo-data"
 version = "1.0.0"
-description = "Predict Personality (Model)"
-authors = ["Ederson Corbari <ecorbari@protonmail.com>"]
+description = "IPIP NEO Data"
+authors = ["Ederson Corbari <e@neuroquest.ai>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.11"
-pandas = "2.0.1"
-pyreadstat = "^1.2.7"
+pandas = "2.2.3"
+pyreadstat = "1.2.7"
 five-factor-e = "1.12.1"
-
-[[tool.poetry.source]]
-name = "pytorch"
-url = "https://download.pytorch.org/whl/cu121/"
-priority = "explicit"
+jupyterlab = "4.0.6"
 
 [build-system]
 requires = ["poetry-core"]
