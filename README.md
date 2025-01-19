@@ -19,22 +19,27 @@ The original datasets were provided by Professor **Dr. John A. Johnson** and can
 
 ### How to use 🚀
 
-To use the project, simply install Python and Poetry on your machine. Then, run the commands below:
+To use the project, simply install [Python](https://www.python.org/) and [Poetry](https://python-poetry.org/) on your machine. Then, run the commands below:
 
 ```shell
 cd ipip-neo-data; poetry shell; poetry update
 ```
 
-After run:
+Now run:
 
 ```shell
 jupyter lab --no-browser
 ```
 
-The datasets are available on the Kaggle platform at the links below:
+The datasets are available on the [Kaggle](https://www.kaggle.com/) platform at the links below:
 
 - [https://www.kaggle.com/datasets/edersoncorbari/pip-neo-big-five-personality-120-item-version](https://www.kaggle.com/datasets/edersoncorbari/pip-neo-big-five-personality-120-item-version)
 - [https://www.kaggle.com/datasets/edersoncorbari/ipip-neo-big-five-personality-300-item-version](https://www.kaggle.com/datasets/edersoncorbari/ipip-neo-big-five-personality-300-item-version)
+
+Examples of EDA analysis:
+
+- [https://www.kaggle.com/code/edersoncorbari/eda-ipip120-scores](https://www.kaggle.com/code/edersoncorbari/eda-ipip120-scores)
+- [https://www.kaggle.com/code/edersoncorbari/eda-ipip300-scores](https://www.kaggle.com/code/edersoncorbari/eda-ipip300-scores)
 
 ### Credits 🏆
 
@@ -49,9 +54,9 @@ The datasets are available on the Kaggle platform at the links below:
   * https://sites.psu.edu/drj5j/
   * https://ipip.ori.org/
   * https://osf.io/tbmh5/
-  * https://github.com/kholia/IPIP-NEO-PI
 
 ### Authors 👨‍💻
 
-  * [Ederson Corbari](mailto:e@NeuroQuest.ai)
   * [Daiana Oliveira](mailto:d@NeuroQuest.ai)
+  * [Ederson Corbari](mailto:e@NeuroQuest.ai)
+
