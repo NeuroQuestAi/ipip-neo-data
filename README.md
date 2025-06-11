@@ -31,7 +31,7 @@ Now run:
 jupyter lab --no-browser
 ```
 
-The datasets are available on the [Hugging Face](https://huggingface.co/datasets/ecorbari/IPIP300-SCORES) platform at the links below:
+The datasets are available on the [Hugging Face](https://huggingface.co/) platform at the links below:
 
 - [https://huggingface.co/datasets/ecorbari/IPIP120-SCORES](https://huggingface.co/datasets/ecorbari/IPIP120-SCORES)
 - [https://huggingface.co/datasets/ecorbari/IPIP300-SCORES](https://huggingface.co/datasets/ecorbari/IPIP300-SCORES)
