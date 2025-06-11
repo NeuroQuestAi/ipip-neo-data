@@ -31,6 +31,11 @@ Now run:
 jupyter lab --no-browser
 ```
 
+The datasets are available on the [Hugging Face](https://huggingface.co/datasets/ecorbari/IPIP300-SCORES) platform at the links below:
+
+- [https://huggingface.co/datasets/ecorbari/IPIP120-SCORES](https://huggingface.co/datasets/ecorbari/IPIP120-SCORES)
+- [https://huggingface.co/datasets/ecorbari/IPIP300-SCORES](https://huggingface.co/datasets/ecorbari/IPIP300-SCORES)
+
 The datasets are available on the [Kaggle](https://www.kaggle.com/) platform at the links below:
 
 - [https://www.kaggle.com/datasets/edersoncorbari/pip-neo-big-five-personality-120-item-version](https://www.kaggle.com/datasets/edersoncorbari/pip-neo-big-five-personality-120-item-version)
@@ -59,4 +64,3 @@ Examples of EDA analysis:
 
   * [Daiana Oliveira](mailto:d@NeuroQuest.ai)
   * [Ederson Corbari](mailto:e@NeuroQuest.ai)
-
